@@ -1,4 +1,4 @@
-# Major-Project
+# Arrhythmia Detection
 Arrhythmia is a coronary heart rhythm circumstance that reasons abnormal heartbeats.
 The electrocardiographic (ECG) sign can screen abnormalities with inside the
 conduction machine. An electrocardiogram (ECG) is an vital diagnostic device for
